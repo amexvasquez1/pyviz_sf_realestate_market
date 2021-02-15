@@ -3,12 +3,13 @@ Analysis of San Francisco real estate market condition.
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 ---
 #Files
-
+---
 -Housing per year.
 -Neighborhoods coordinates.
 -San Francisco Neighborhood census.
 ---
 #Steps:
+----
 -Compare the Average Sale Prices by Neighborhood
 -Calculate and Plot the Housing Units per Year
 -Calculate and Plot the Average Sale Prices per Square Foot
